@@ -10,7 +10,7 @@
 - 📫 How to reach me: [Discord AlexBanPer#4245](https://discord.com/users/364505511762329601) | [E-Mail](mailto:a.martinez@ukader.net)
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=AlexMartSch&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=AlexMartSch&show_icons=true&theme=radical)
 ![](https://komarev.com/ghpvc/?username=AlexMartSch&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=5489500)
 
